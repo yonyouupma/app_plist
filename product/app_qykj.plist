@@ -17,9 +17,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yonyouup.enterpriseSpace1</string>
+				<string>com.upesn1.esn</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
