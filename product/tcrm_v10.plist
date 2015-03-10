@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://as.yonyouup.cn/resource/apps/turbocrm/v25/crm25.ipa</string>
+					<string>http://as.yonyouup.cn/resource/apps/tcrm/v10/tcrm10.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,13 +19,13 @@
 				<key>bundle-identifier</key>
 				<string>com.yonyou.ypturboCRM</string>
 				<key>bundle-version</key>
-				<string>2.5.1</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>turboCRM</string>
+				<string>tcrm</string>
 				<key>title</key>
-				<string>turboCRM</string>
+				<string>tcrm</string>
 			</dict>
 		</dict>
 	</array>
